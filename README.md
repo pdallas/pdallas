@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm Panagiotis, a passionate AI enthusiast currently pursuing studies at Utrecht University. 📚
 
-<!--
-**pdallas/pdallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Studying AI at Utrecht University.
+- 💻 My preferred languages: Python 🐍 and Java ☕.
+- 🌐 Exploring the vast world of artificial intelligence and its applications.
+- 🚀 Always eager to learn and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- 🐍 Python | ☕ Java
+- 🤖 Machine Learning | 📊 Data Science
+- 🧠 Neural Networks | 🤝 Open Source
+
+## Connect with Me
+
+Feel free to connect and discuss anything related to AI, programming, or just have a friendly chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-blue)](https://www.linkedin.com/in/panagiotis-i-dallas/)
