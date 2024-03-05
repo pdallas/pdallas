@@ -17,4 +17,4 @@ I'm Panagiotis, a passionate AI enthusiast currently pursuing studies at Utrecht
 
 Feel free to connect and discuss anything related to AI, programming, or just have a friendly chat!
 
-[![LinkedIn](https://img.shields.io/badge/URL-blue)](https://www.linkedin.com/in/panagiotis-i-dallas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/panagiotis-i-dallas/-blue)](https://www.linkedin.com/in/panagiotis-i-dallas/)
