@@ -10,8 +10,10 @@ I'm Panagiotis, a passionate AI enthusiast currently pursuing studies at Utrecht
 ## Tech Stack
 
 - 🐍 Python | ☕ Java
-- 🤖 Machine Learning | 📊 Data Science
+- 📊 Data Science | 🤖 Machine Learning
 - 🧠 Neural Networks | 🤝 Open Source
+- 🛢️ MySQL | 🌐 Flask | 🚀 Spring Boot
+- 🐳 Docker | ☸️ Kubernetes
 
 ## Connect with Me
 
